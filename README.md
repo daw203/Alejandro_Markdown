@@ -20,3 +20,16 @@
 
 **git config --global core.excludesFile .gitignore**
 
+**git tag v0.1**
+
+**git add -A**
+
+**git commit -m "Cambios de Alejandro"**
+
+**git push**
+
+Compañero | Enlace
+:---- | :----
+Raul Lavin | https://github.com/raullavin/RaulLavin_Markdown
+Javier Sosa | https://github.com/JavierSosa1/Javier_markdown
+Antonio Lopez | https://gitlab.com/antonioalopezfernandez/ANTONIOLOPEZ_Markdown
